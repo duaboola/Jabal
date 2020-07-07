@@ -653,7 +653,6 @@ section {
 @media screen and (max-width: 600px) {
   div.con {
     font-size: 1em;
-    padding-top: 60px;
     display:block;
   }
 }
@@ -2109,7 +2108,6 @@ section {
   /*border-right: 5px solid #fffc55;*/
   height: 150px !important;
   margin: 10px;
-  padding-left: 100px;padding-right: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
